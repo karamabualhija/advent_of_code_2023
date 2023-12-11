@@ -1,0 +1,11 @@
+#ignoring all the files
+*
+
+# exceptions
+!.gitignore
+
+!*.c
+!*.h
+!makefile
+!*.cpp
+!*.hpp
